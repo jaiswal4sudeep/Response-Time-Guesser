@@ -1,4 +1,4 @@
-# responsetimeguesser
+# Response-Time-Guesser
 
 A new Flutter project.
 
